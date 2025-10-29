@@ -1,4 +1,4 @@
-# Лабораторная работа №1
+<img width="502" height="841" alt="image" src="https://github.com/user-attachments/assets/b55d8471-2801-4324-a737-44cefb4b217a" /># Лабораторная работа №1
 ## Выполнил: Гилев Артем, группа ИТ-10
 
 ### Цель работы
@@ -185,12 +185,17 @@ lab1n4.cs           - Методы для задания 4
 ## Примеры работы:
 
 ### Задание 1
+<img width="539" height="708" alt="image" src="https://github.com/user-attachments/assets/ccacf956-ce68-4101-87ad-6fac086118bb" />
 
 ### Задание 2  
+<img width="483" height="714" alt="image" src="https://github.com/user-attachments/assets/31be8580-aa99-470b-95b8-b396038007dc" />
 
 ### Задание 3
+<img width="541" height="915" alt="image" src="https://github.com/user-attachments/assets/aea13162-4d92-4004-9e04-44ea956e69f9" />
 
 ### Задание 4
+<img width="471" height="972" alt="image" src="https://github.com/user-attachments/assets/ea4b6e68-ca62-42a5-99d2-00c48e877c2a" />
+<img width="502" height="841" alt="image" src="https://github.com/user-attachments/assets/aedd73b8-cbc4-4e10-86ad-c77882c14270" />
 
 ## Заключение
 
